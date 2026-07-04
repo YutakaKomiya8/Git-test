@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding dark mode UI
+=======
+222 
+>>>>>>> dev
